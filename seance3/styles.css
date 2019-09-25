@@ -1,0 +1,38 @@
+body {
+	font: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+div {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 5px;
+    pointer-events: none;
+	transform: translateX(-50%);
+}
+
+div.tooltip p {
+	font-size: 14px;
+	margin: 0;
+}
