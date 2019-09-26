@@ -11,6 +11,48 @@
   - bubble chart : "The wealth and health of nations"
   - diagramme en barres : genres des films les plus populaires de 2018
 
+### Comment ouvrir un serveur local de développement
+- Installer le paquet `live-server` de manière globale : `npm install -g live-server`
+- Dans le dossier contenant le fichier HTML, lancer `live-server`
+
+### D3.js
+D3 (_Data-Driven Documents_) est une bibliothèque JavaScript de visualisation de données sur le web. Elle repose sur la norme SVG (_Scalable Vector Graphics_), c'est-à-dire le graphisme vectoriel (à la manière d'Adobe Illustrator par exemple). Voir [le site internet](https://d3js.org/) et [la documentation complète](https://github.com/d3).
+
+Concrètement, D3 permet de lier une base de données à un ensemble de formes (cercles, lignes, rectangles, etc.) et de faire varier leur position, taille, couleur... en fonction des données.
+
+### Notions de SVG abordées
+Le SVG est un langage qui, commme le HTML, fonctionne avec un système de balises et d'attributs. Par exemple, le code SVG suivant représente un cercle violet de 20 pixels de rayon situé au centre de l'image :
+
+```html
+<svg width=100 height=100>
+	<circle cx=50 cy=50 r=20 fill="purple"></circle>
+</svg>
+```
+
+Quelques éléments SVG et leurs attributs :
+- `circle` :
+	- `cx` : coordonnée X du centre du cercle
+	- `cy` : coordonnée Y du centre du cercle
+	- `r` : rayon du cercle
+- `rect` :
+	- `x` : coordonnée X du coin en haut à gauche du rectancle
+	- `y` : coordonnée Y du coin en haut à gauche du rectancle
+	- `width` : largeur du rectangle
+	- `height` : hauteur du rectangle
+- `line` :
+	- `x1` : coordonnée X du départ de la ligne
+	- `y1` : coordonnée Y du départ de la ligne
+	- `x2` : coordonnée X de la fin de la ligne
+	- `y2` : coordonnée Y de la fin de la ligne
+
+Les attributs communs à plusieurs formes sont :
+- `fill` : la couleur de l'élément, sous la forme d'une chaîne de caractère (`"green"`) ou bien d'un code hexadécimal (`#663399`)
+- `stroke` : la couleur du contour de l'élément
+- `stroke-width` : l'épaisseur du contour
+- ...
+
+Voir [la documentation](https://developer.mozilla.org/fr/docs/Web/SVG).
+
 ***
 
 ## Séances du 13/09 et du 14/09
