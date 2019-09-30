@@ -2,6 +2,15 @@
 
 ***
 
+## Séance du 1/10
+
+### Programme
+- **Enregistrement d'une application Twitter**
+- **Découverte de [l'API de Twitter](https://developer.twitter.com/en/docs)** : GET, POST et STREAM
+- **Cas pratique** : réalisation individuelle d'un bot Twitter
+
+***
+
 ## Séances du 23/09 et du 24/09
 
 ### Programme
