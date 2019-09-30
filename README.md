@@ -6,7 +6,7 @@
 
 ### Programme
 - **Enregistrement d'une application Twitter**
-- **Découverte de [l'API de Twitter](https://developer.twitter.com/en/docs)** : GET, POST et STREAM
+- **Découverte de [l'API de Twitter](https://developer.twitter.com/en/docs) avec Twit** : GET, POST et STREAM
 - **Cas pratique** : réalisation individuelle d'un bot Twitter
 
 ***
