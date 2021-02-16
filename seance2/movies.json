@@ -1,0 +1,302 @@
+[
+	{
+		"title": "Avengers: Endgame",
+		"runtime": 181,
+		"rating": 8.4,
+		"boxOffice": 858373000
+	},
+	{
+		"title": "Le Roi Lion",
+		"runtime": 118,
+		"rating": 6.9,
+		"boxOffice": 543638043
+	},
+	{
+		"title": "Star Wars: L'Ascension de Skywalker",
+		"runtime": 141,
+		"rating": 6.6,
+		"boxOffice": 515202542
+	},
+	{
+		"title": "La Reine des Neiges 2",
+		"runtime": 103,
+		"rating": 6.9,
+		"boxOffice": 477373578
+	},
+	{
+		"title": "Toy Story 4",
+		"runtime": 100,
+		"rating": 7.8,
+		"boxOffice": 434038008
+	},
+	{
+		"title": "Captain Marvel",
+		"runtime": 123,
+		"rating": 6.9,
+		"boxOffice": 426829839
+	},
+	{
+		"title": "Spider-Man: Far from Home",
+		"runtime": 129,
+		"rating": 7.5,
+		"boxOffice": 390532085
+	},
+	{
+		"title": "Aladdin",
+		"runtime": 128,
+		"rating": 6.9,
+		"boxOffice": 355559216
+	},
+	{
+		"title": "Joker",
+		"runtime": 122,
+		"rating": 8.4,
+		"boxOffice": 335451311
+	},
+	{
+		"title": "Jumanji: The Next Level",
+		"runtime": 123,
+		"rating": 6.6,
+		"boxOffice": 316831246
+	},
+	{
+		"title": "Ça: Chapitre 2",
+		"runtime": 169,
+		"rating": 6.5,
+		"boxOffice": 211593228
+	},
+	{
+		"title": "Us",
+		"runtime": 116,
+		"rating": 6.8,
+		"boxOffice": 175084580
+	},
+	{
+		"title": "Fast & Furious: Hobbs & Shaw",
+		"runtime": 137,
+		"rating": 6.4,
+		"boxOffice": 173956935
+	},
+	{
+		"title": "John Wick Parabellum",
+		"runtime": 130,
+		"rating": 7.4,
+		"boxOffice": 171015687
+	},
+	{
+		"title": "À couteaux tirés",
+		"runtime": 130,
+		"rating": 7.9,
+		"boxOffice": 165359751
+	},
+	{
+		"title": "Dragons 3: Le monde caché",
+		"runtime": 104,
+		"rating": 7.5,
+		"boxOffice": 160799505
+	},
+	{
+		"title": "1917",
+		"runtime": 119,
+		"rating": 8.3,
+		"boxOffice": 159227644
+	},
+	{
+		"title": "Comme des bêtes 2",
+		"runtime": 86,
+		"rating": 6.5,
+		"boxOffice": 158874395
+	},
+	{
+		"title": "Pokémon Détective Pikachu",
+		"runtime": 104,
+		"rating": 6.6,
+		"boxOffice": 144105346
+	},
+	{
+		"title": "Once Upon a Time In Hollywood",
+		"runtime": 161,
+		"rating": 7.6,
+		"boxOffice": 142502728
+	},
+	{
+		"title": "Shazam!",
+		"runtime": 132,
+		"rating": 7,
+		"boxOffice": 140371656
+	},
+	{
+		"title": "Le Mans '66",
+		"runtime": 152,
+		"rating": 8.1,
+		"boxOffice": 117624028
+	},
+	{
+		"title": "Dumbo",
+		"runtime": 112,
+		"rating": 6.3,
+		"boxOffice": 114766307
+	},
+	{
+		"title": "Maléfique: Le Pouvoir du Mal",
+		"runtime": 119,
+		"rating": 6.6,
+		"boxOffice": 113929605
+	},
+	{
+		"title": "Glass",
+		"runtime": 129,
+		"rating": 6.7,
+		"boxOffice": 111048468
+	},
+	{
+		"title": "Godzilla II : Roi des monstres",
+		"runtime": 132,
+		"rating": 6,
+		"boxOffice": 110500138
+	},
+	{
+		"title": "Les Filles du Docteur March",
+		"runtime": 135,
+		"rating": 7.8,
+		"boxOffice": 108101214
+	},
+	{
+		"title": "La Grande Aventure Lego 2",
+		"runtime": 107,
+		"rating": 6.6,
+		"boxOffice": 105806508
+	},
+	{
+		"title": "La familie Addams",
+		"runtime": 86,
+		"rating": 5.8,
+		"boxOffice": 100044905
+	},
+	{
+		"title": "Downton Abbey",
+		"runtime": 122,
+		"rating": 7.4,
+		"boxOffice": 96854135
+	},
+	{
+		"title": "Rocketman",
+		"runtime": 121,
+		"rating": 7.3,
+		"boxOffice": 96368160
+	},
+	{
+		"title": "Alita: Battle Angel",
+		"runtime": 122,
+		"rating": 7.3,
+		"boxOffice": 85710210
+	},
+	{
+		"title": "Queens",
+		"runtime": 110,
+		"rating": 6.3,
+		"boxOffice": 80553967
+	},
+	{
+		"title": "Men in Black: International",
+		"runtime": 114,
+		"rating": 5.6,
+		"boxOffice": 80001807
+	},
+	{
+		"title": "Annabelle - La Maison Du Mal",
+		"runtime": 106,
+		"rating": 5.9,
+		"boxOffice": 74152591
+	},
+	{
+		"title": "Yesterday",
+		"runtime": 116,
+		"rating": 6.8,
+		"boxOffice": 73286650
+	},
+	{
+		"title": "A Madea Family Funeral",
+		"runtime": 109,
+		"rating": 4.5,
+		"boxOffice": 73257045
+	},
+	{
+		"title": "Good Boys",
+		"runtime": 90,
+		"rating": 6.7,
+		"boxOffice": 69056735
+	},
+	{
+		"title": "La chute du président",
+		"runtime": 121,
+		"rating": 6.4,
+		"boxOffice": 67162153
+	},
+	{
+		"title": "X-Men: Dark Phoenix",
+		"runtime": 113,
+		"rating": 5.7,
+		"boxOffice": 65845974
+	},
+	{
+		"title": "Scary Stories",
+		"runtime": 108,
+		"rating": 6.2,
+		"boxOffice": 62739086
+	},
+	{
+		"title": "Terminator: Dark Fate",
+		"runtime": 128,
+		"rating": 6.2,
+		"boxOffice": 62253077
+	},
+	{
+		"title": "Un ami extraordinaire",
+		"runtime": 109,
+		"rating": 7.3,
+		"boxOffice": 61704055
+	},
+	{
+		"title": "Abominable",
+		"runtime": 97,
+		"rating": 7,
+		"boxOffice": 60716390
+	},
+	{
+		"title": "Escape Game",
+		"runtime": 99,
+		"rating": 6.4,
+		"boxOffice": 57005601
+	},
+	{
+		"title": "Dora et la cité perdue",
+		"runtime": 102,
+		"rating": 6.1,
+		"boxOffice": 54893567
+	},
+	{
+		"title": "La Malédiction de la Dame blanche",
+		"runtime": 93,
+		"rating": 5.3,
+		"boxOffice": 54733739
+	},
+	{
+		"title": "Simetierre",
+		"runtime": 101,
+		"rating": 5.7,
+		"boxOffice": 54724696
+	},
+	{
+		"title": "Ce que veulent les hommes",
+		"runtime": 117,
+		"rating": 5.3,
+		"boxOffice": 54611903
+	},
+	{
+		"title": "Parasite",
+		"runtime": 132,
+		"rating": 8.6,
+		"boxOffice": 53367844
+	}
+]
